@@ -2,9 +2,6 @@
 /** BU UYGULAMA DATABASE İSMİ VERİLEREK DATABASENIN TÜM TABLOLARINA RANDOM VERİ EKLER !
 
 
- Murat - Topuz tarafından yazılmıştır..
-
-murattopuz.com.tr
 Database Connect bilgilerini değiştirerek. ve Spechy classına database ismini yazarak bağlanabilirsiniz.
 133. Satır'da database adını yazın.
 
